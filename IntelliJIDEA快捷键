@@ -1,0 +1,23 @@
+alt+enter ==> ctrl+F1
+F2:移动到错误代码前面
+----------代码生成---------
+Alt+Insert:在编辑窗口中点击可以生成构造函数、toString、getter/setter、重写父类方法等
+ctrl+j可以查看所有的模板
+----------编辑---------
+ctrl+left/right移动光标到前后单词
+ctrl+w/ctrl+shift+w正向以及反向选中单词
+----------重构----------
+CTRL+SHIFT+ALT+T
+----------查找打开----------
+Ctrl+N/Ctrl+Shift+N打开类或者资源
+SHIFT SHIFT即可在一个弹出的对话框中搜索任何的东西，包括类、资源、配置项、方法 等等
+类的继承关系ctrl+H
+
+
+命令：Ctrl+Shift+A可以查找所有Intellij的命令，并且每个命令后面还有其快捷键。所以它不仅是一大神键，也是查找学习快捷键的工具
+格式化代码：格式化import列表Ctrl+Alt+O，格式化代码Ctrl+Alt+L。
+Ctrl+E/Ctrl+Shift+E打开最近打开过的或编辑过的文件。
+Ctrl+Alt+T创建单元测试用例。
+运行：Alt+Shift+F10运行程序，Shift+F9启动调试，Ctrl+F2停止。
+调试：F7/F8/F9分别对应Step into，Step over，Continue。
+
