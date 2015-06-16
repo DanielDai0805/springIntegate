@@ -1,4 +1,4 @@
-package spring.core.resolvable;
+package spring.bean.core.resolvable;
 
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

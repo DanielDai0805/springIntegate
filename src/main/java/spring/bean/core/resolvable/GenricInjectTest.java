@@ -1,4 +1,4 @@
-package spring.core.resolvable;
+package spring.bean.core.resolvable;
 
 import org.junit.Assert;
 import org.junit.Test;

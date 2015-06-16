@@ -1,4 +1,4 @@
-package spring.core.resolvable;
+package spring.bean.core.resolvable;
 
 /**
  * Created by ddai on 6/4/2015.
