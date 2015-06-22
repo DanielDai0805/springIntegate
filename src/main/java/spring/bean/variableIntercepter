@@ -1,0 +1,3 @@
+DefalutSingletonBeanRegistry（具体可以从调试类中获取）
+dependentBeanMap:  a  b    说明a依赖于b，并且具有传递性依赖
+dependenciesForBeanMap:  a b 说明有哪些bean在使用b
